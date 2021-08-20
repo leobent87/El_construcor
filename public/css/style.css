@@ -1,0 +1,20 @@
+
+/*footer*/
+
+.feet{background-color: #E5E7E9;
+margin-top: 0px;}
+footer {
+  padding: 40px 0;
+  text-align: center;
+  color: black;
+}
+footer a { color: black;}
+footer a:hover { color: #85C1E9;
+   text-decoration: none;}
+footer .list-inline .list-inline-item { padding: 10px 15px;}
+.section-content{ padding-top: 20px;}
+
+.active{
+  color: black;
+  font-weight: bold;
+}
